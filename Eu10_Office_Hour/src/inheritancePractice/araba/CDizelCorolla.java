@@ -1,6 +1,6 @@
-package inheritancePractice;
+package inheritancePractice.araba;
 
-public class CDizelCorolla extends BCorolla{
+public class CDizelCorolla extends BCorolla {
     CDizelCorolla() {
         System.out.println("Dizel corolla constructor");
     }
