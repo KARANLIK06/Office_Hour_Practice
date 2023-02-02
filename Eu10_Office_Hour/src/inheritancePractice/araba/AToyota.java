@@ -1,4 +1,4 @@
-package inheritancePractice;
+package inheritancePractice.araba;
 
 public class AToyota {
     AToyota() {
