@@ -1,6 +1,8 @@
-package inheritancePractice;
+package inheritancePractice.araba;
 
-public class BCorolla extends AToyota{
+import inheritancePractice.araba.AToyota;
+
+public class BCorolla extends AToyota {
     BCorolla() {
         System.out.println("Corolla constructor");
     }
